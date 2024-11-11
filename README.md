@@ -5,6 +5,7 @@ Follow these steps to start the project:
 1. **Download the Project** (You already have done it)
 
 2. **Set Up Git**
+
    - Open your terminal and navigate to the project directory.
    - Initialize Git and make an initial commit:
      ```bash
@@ -14,16 +15,19 @@ Follow these steps to start the project:
      ```
 
 3. **Push to Your GitHub**
+
    - Create a new public repository on **your GitHub**.
    - Push the project to your GitHub repository.
 
 4. **Create a New Branch**
+
    - From the "main" or "master" branch, create a new branch called "assessment":
      ```bash
      git checkout -b assessment
      ```
 
 5. **Install Dependencies**
+
    - Install the necessary packages:
      ```bash
      npm install
@@ -42,10 +46,12 @@ Follow these steps to start the project:
 ## **Challenges**
 
 ### 1. **Update URL When Modal Opens (Products Page)**
-   - Update the URL when the modal opens on the `/products` page, ensuring the modal state persists after a page reload and works with the back/forward buttons in the browser.
+
+- Update the URL when the modal opens on the `/products` page, ensuring the modal state persists after a page reload and works with the back/forward buttons in the browser.
 
 ### 2. **Print User Agent Without JavaScript**
-   - Modify the user agent setup so it works even when JavaScript is disabled.
+
+- Modify the user agent setup so it works even when JavaScript is disabled.
 
 ---
 
@@ -60,6 +66,7 @@ Here is a link to the [Final Result (sample)](https://fe-test.intellixio.com/)
 ## **Submitting Your Work**
 
 1. **Commit Your Changes**
+
    - After completing the challenges, commit your changes:
      ```bash
      git add .
@@ -67,10 +74,12 @@ Here is a link to the [Final Result (sample)](https://fe-test.intellixio.com/)
      ```
 
 2. **Create a Pull Request**
+
    - Push your changes to **your GitHub repository**.
    - Create a Pull Request from the "assessment" branch to the "main" or "master" branch.
 
 3. **Deploy Your Application**
+
    - Deploy the application to a platform like **Vercel**, **Netlify**, or any similar service where the final app can be inspected.
 
 4. **Submit Your Work**
@@ -81,3 +90,5 @@ Here is a link to the [Final Result (sample)](https://fe-test.intellixio.com/)
 ---
 
 We look forward to reviewing your work!
+
+a change to deploy the assessment branch to vercel
